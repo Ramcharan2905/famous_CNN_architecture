@@ -56,7 +56,7 @@ Given an input image from the CIFAR-10 dataset, predict which of the following 1
 
 1.  **Clone the repository**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/Ramcharan2905/famous_CNN_architecture
     cd cifar10-cnn-architectures
     ```
 
