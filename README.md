@@ -104,3 +104,61 @@ This project aims to help practitioners understand:
 
 -   **CIFAR-10 Dataset** — [University of Toronto](https://www.cs.toronto.edu/~kriz/cifar.html)
 -   **TensorFlow** — Deep learning framework
+
+---
+
+## 🤝 Contribution
+
+Contributions are welcome and appreciated.
+
+If you would like to contribute:
+
+1. Fork the repository  
+2. Create a new branch (`feature/your-feature-name`)  
+3. Make your changes  
+4. Commit your changes with clear messages  
+5. Push to your fork  
+6. Open a Pull Request  
+
+For major changes, please open an issue first to discuss what you would like to improve or add.
+
+---
+
+## 📝 Code Guidelines
+
+- Follow clean and readable code practices  
+- Use meaningful variable and function names  
+- Keep functions modular and concise  
+- Add comments where necessary  
+- Ensure your code does not break existing functionality  
+
+---
+
+## 🐛 Reporting Issues
+
+If you find a bug or have a feature request:
+- Open an issue  
+- Clearly describe the problem  
+- Provide steps to reproduce (if applicable)  
+- Attach screenshots/logs if helpful  
+
+---
+
+## 📜 License
+
+This project is open source.
+
+---
+
+## ⭐ Support
+
+If you find this project helpful:
+- Star the repository  
+- Share it with others  
+- Contribute to improve it  
+
+---
+
+## 🙌 Acknowledgements
+
+Thanks to all contributors and the open-source community for their support and inspiration.
